@@ -1,2 +1,1 @@
-# mta-sts
-This repository contains my MTA-STS configuration
+### A custom startpage with all my important links
