@@ -1,3 +1,5 @@
 name        = "mta-sts-mdekort-nl"
-repo        = "melvyndekort/mta-sts"
 domain_name = "mta-sts.mdekort.nl"
+repo_owner  = "melvyndekort"
+repo_name   = "mta-sts"
+repo_branch = "main"
